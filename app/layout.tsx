@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nixon Kurian — AI Systems Engineer",
+  title: "Nixon Kurian — AI Engineer",
   description:
     "Portfolio of Nixon Kurian — building intelligent systems, AI infrastructure, and developer tools.",
 };
